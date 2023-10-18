@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Mwenezi",
+      "country": "Zimbabwe",
+      "emoji": "🇿🇼",
+      "date": "2023-08-14T03:06:17.702Z",
+      "notes": "Zimbos",
+      "position": {
+        "lat": "-21.22879161182031",
+        "lng": "30.937500000000004"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "In Ghar",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-08-14T03:07:30.013Z",
+      "notes": "Nigeria",
+      "position": {
+        "lat": "26.604719149896752",
+        "lng": "2.2851562500000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Oktyabr’skiy",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-18T04:34:19.424Z",
+      "notes": "This is where I am.",
+      "position": {
+        "lat": "55.244806524430714",
+        "lng": "83.14453125000001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Pavlodar",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-10-18T04:34:46.621Z",
+      "notes": "",
+      "position": {
+        "lat": "52.939409361817326",
+        "lng": "76.70654296875001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Medvedskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-18T04:34:55.726Z",
+      "notes": "",
+      "position": {
+        "lat": "54.31830260166887",
+        "lng": "83.51806640625001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Severnoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-18T04:34:59.959Z",
+      "notes": "",
+      "position": {
+        "lat": "56.53643731959753",
+        "lng": "79.16748046875001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Taskayevo",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-18T04:35:02.807Z",
+      "notes": "",
+      "position": {
+        "lat": "55.031424639655185",
+        "lng": "78.75000000000001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Michurinskoye",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2023-10-18T04:35:06.023Z",
+      "notes": "",
+      "position": {
+        "lat": "53.50462539713871",
+        "lng": "79.60693359375001"
+      },
+      "id": 98443205
+    }
+  ]
+}
